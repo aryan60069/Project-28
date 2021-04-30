@@ -13,8 +13,8 @@ var world,boy, bgImage;
 var launcherObject;
 
 function preload(){
-	boy=loadImage("images/boy.png");
-  bgImage=loadImage("images/Background.jpg");
+	boy=loadImage("boy.png");
+  bgImage=loadImage("Background.jpg");
   }
 
 function setup() {
